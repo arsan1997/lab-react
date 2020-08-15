@@ -11,3 +11,36 @@
    color: red;
    background: pink;
  }
+ .Header {
+   text-align: center;
+   font-size: 2rem;
+   color: brown;
+   margin: 5px auto;
+   width: 50%;
+   background-color:whitesmoke;
+   border-radius: 5px;
+ }
+ .Cardbox{
+   width: 80%;
+   margin: auto;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+ }
+ .count{
+   display:flex;
+   justify-content: center;
+ }
+ .cardlist{
+   display: flex;
+   justify-content: center;
+ }
+ .win{
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  color:red;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+ }
